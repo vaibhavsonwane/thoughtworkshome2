@@ -1,0 +1,16 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+
+.bg-teal{
+    background-color: teal;
+}
+.text-teal{
+    color: teal;
+}
+table th:nth-child(3), td:nth-child(3) {
+    display: none;
+}

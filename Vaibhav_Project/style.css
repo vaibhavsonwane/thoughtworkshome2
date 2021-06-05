@@ -1,0 +1,252 @@
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        .dropdown-item:hover {
+            background: linear-gradient(45deg, black, black);
+            color: white !important;
+            box-shadow: 0 0 5px black;
+        }
+        
+        .bg-info,
+        .btn-info {
+            background: linear-gradient(45deg, black, #33b5e5);
+        }
+        
+        .bg-primary,
+        .btn-primary {
+            background: linear-gradient(45deg, black, blue);
+        }
+        
+        .bg-success,
+        .btn-success {
+            background: linear-gradient(45deg, black, limegreen);
+        }
+        
+        .bg-warning,
+        .btn-warning {
+            background: linear-gradient(45deg, black, orangered);
+        }
+        
+        .bg-danger,
+        .btn-danger {
+            background: linear-gradient(45deg, black, red);
+        }
+        
+        .bg-secondary,
+        .btn-secondary {
+            background: linear-gradient(45deg, black, purple);
+        }
+        
+        .bg-dark,
+        .btn-dark {
+            background: linear-gradient(45deg, black, black);
+        }
+        
+        .bg-teal,
+        .btn-teal {
+            background: linear-gradient(45deg, black, #175858);
+        }
+        
+        .text-primary {
+            color: darkblue !important;
+        }
+        
+        .text-success {
+            color: darkgreen !important;
+        }
+        
+        .text-warning {
+            color: orangered !important;
+        }
+        
+        .text-teal {
+            color: #175858 !important;
+        }
+        
+        .bg-light-blue {
+            background-color: lightblue;
+        }
+        
+        .bg-light-green {
+            background-color: lightgreen;
+        }
+        
+        .bg-light-salmon {
+            background-color: lightsalmon;
+        }
+        
+        .p-image {
+            box-shadow: 0 0 10px black;
+            border-radius: 10px;
+        }
+        
+        .img-logo {
+            /*height: 24px;
+    width: 153px;*/
+        }
+        
+        .global {
+            margin-top: 35px;
+        }
+        
+        .global a {
+            text-decoration: none;
+        }
+        
+        .global a:hover {
+            text-decoration: none;
+        }
+        
+        .rounded-circle {
+            border-radius: 1000px !important;
+            width: 10px;
+        }
+        
+        .font-1 {
+            font-weight: bold;
+        }
+        
+        .btn-hotpink {
+            background-color: hotpink;
+            color: white;
+            font-weight: bold;
+            width: 170px;
+            height: 60px;
+        }
+        
+        .btn-hotpink:hover {
+            background-color: rgb(247, 171, 209);
+            text-decoration: none;
+            color: white;
+        }
+        
+        .fieldset {
+            border: 2px solid black;
+            background-color: black;
+            width: 140px;
+            margin: auto;
+            text-align: center;
+            height: 38px;
+            font-weight: bold;
+            padding-top: 4px;
+        }
+        
+        .legend {
+            border: 2px solid blue;
+        }
+        
+        .publication1 {
+            width: 140px;
+            height: 38px;
+            font-size: 16px;
+            padding-top: 5px;
+            margin-top: -20px;
+            margin-left: -20px;
+            font-weight: bold;
+        }
+        
+        .card1 {
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 2px rgb(204, 204, 204);
+            margin-left: -120px;
+            margin-top: 90px;
+            height: 450px;
+        }
+        
+        .card2 {
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 2px rgb(204, 204, 204);
+            margin-left: 50px;
+            margin-top: -90px;
+            height: 260px;
+            width: 350px;
+        }
+        
+        .random {
+            margin-top: 100px;
+        }
+        
+        .card3 {
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 2px rgb(204, 204, 204);
+            margin-left: 50px;
+            margin-top: -90px;
+            height: 300px;
+            width: 350px;
+        }
+        
+        .newdark {
+            border-style: none;
+            text-decoration: none;
+        }
+        
+        #img1 {
+            background: lightblue url("../img/footer.jpg") no-repeat fixed center;
+        }
+        
+        .btn-pink {
+            background-color: hotpink;
+            color: white;
+            font-weight: bold;
+            width: 280px;
+            height: 60px;
+        }
+        
+        .btn-pink:hover {
+            background-color: rgb(247, 171, 209);
+            text-decoration: none;
+            color: white;
+        }
+        
+        .f-button {
+            margin-top: -300px;
+            margin-left: 160px;
+            color: white;
+        }
+        
+        .atag:hover {
+            text-decoration: none;
+            color: hotpink !important;
+            border-bottom: 3px solid hotpink;
+        }
+        
+        .link-tag {
+            text-decoration: none;
+            color: black;
+            font-size: 12px;
+        }
+        
+        .link-tag:hover {
+            text-decoration: none;
+            color: rgb(82, 81, 81);
+        }
+        
+        .text-pink {
+            color: hotpink;
+        }
+        
+        .mov-1 {
+            margin-right: 400px;
+            text-align: left;
+        }
+        
+        .move2 {
+            text-align: left;
+        }
+        
+        .translate {
+            transition: all 0.9s;
+        }
+        
+        .translate:hover {
+            transform: translate(-50px);
+        }
+        
+        .translate1 {
+            transition: all 0.9s;
+        }
+        
+        .translate1:hover {
+            transform: translate(-20px);
+        }
